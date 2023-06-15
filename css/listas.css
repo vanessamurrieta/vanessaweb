@@ -1,0 +1,25 @@
+/*DOCUMENTO CSS*/
+
+* { margin: 0%; 
+       padding: 0%;}
+
+body { background: rgb( 0, 255, 0, 0.324); }
+
+h1 { text-align: center; 
+padding: 20%  0px 20px  0px;
+background-color: darkgreen;
+color: aliceblue;
+text-transform: uppercase;}
+
+.caja { display: block; 
+   width: 90%; 
+    min-height: 1%; 
+    margin: 15px auto; 
+    padding-left: 50%;
+    padding: 15px  auto;
+    box-sizing: border-box;
+    background-color: aqua; }  
+
+
+.imagen { margin: auto; 
+    display: block; }

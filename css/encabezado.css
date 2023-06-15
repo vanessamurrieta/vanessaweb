@@ -1,0 +1,16 @@
+/*DOCUMENTO CSS*/
+* { font: size 28px; }  /*Selector Universal*/
+
+body { background-color: cornflowerblue; } /*Selector de Etiqueta*/
+h1 { color: blueviolet;
+    text-align: center; 
+text-decoration: underline;}
+
+h2, h4 { color: chartreuse;} /*agrupacion de selectores*/
+
+h3, h5 { color: chocolate; } /*agrupacion de selectores*/
+
+p { color: crimson; }
+
+.atencion { color: darkgoldenrod; } /*Selector de clase*/
+

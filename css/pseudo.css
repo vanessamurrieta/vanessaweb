@@ -1,0 +1,16 @@
+/*DOCUMENTO*/
+
+ * {margin: 0%; padding: 0%;}
+
+ #productos  { width: 100%; min-height: 1px; 
+background-color: aquamarine; color: beige; 
+padding: 30px 0px; }
+
+.container { width: 70%; min-height: 1px; 
+display: flex; margin: 0% auto; }
+
+/*display flex convierte el elemento a un objeto flexible */
+/*margin para centrar*/
+
+.item {width: 33.33%; text-align: center; 
+min-height: 150px;background-image: ; }
