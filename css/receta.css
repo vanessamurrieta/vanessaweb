@@ -1,0 +1,41 @@
+/*DOCUMENTO CSS*/
+
+
+font-family:"Helvetica;
+font-family:"Helvtica;
+font-family:"Helvetica;
+
+header, div, nav, main, footer, aside {box-sizing:border-box  }
+
+* { margin: 0%; padding: 0%; background-color: rgb(210, 247, 206); }
+
+header, div, article, nav, main, footer, aside {box-sizing: border-box; }
+
+body header {text-align: center; text-transform: uppercase; 
+font-size: 20px; padding: 30px;  }
+
+*/
+.in {display:flex; flex-direction:row; flex-wrap:wrap}
+.in div {width 50%:}
+*/
+
+.in {display: flex; flex-direction: row; 
+   flex-wrap: wrap; /align-items:center;/}
+
+section a {font size: large;  }
+a  {color: rgb(94, 0, 66);  }
+
+div.ingre {width: 95%; min-height: 1px;/background-color:aqua;/ }
+
+#contenedor  { 
+    text-align: left;
+    width: 100%;
+    margin: auto;
+               }
+
+div.ingre {width: 95%;min-height: 1px; /background-color:purple }
+
+.item img { margin: auto; display: block; }
+
+footer {text-align: center;font-family: Arial, Helvetica, sans-serif;  
+  padding-top: 100px; padding-bottom: 11px; }
